@@ -133,6 +133,9 @@ body{
     
 
 }
+.navbar{
+    border-bottom: 1px solid grey;
+}
 
 .addLine{
     border-bottom:2px solid #7cbeff !important;
